@@ -3,7 +3,6 @@
 * imaging science & biomedical engineering
 * computer vision and machine intelligence
 * cardiovascular disease and fetal health
-* data acquisition and image reconstruction
 * scientific computing and reproducible research
 
 ### projects
