@@ -1,16 +1,19 @@
-### Hi there 👋
+### research
 
-<!--
-**jfpva/jfpva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* imaging science & biomedical engineering
+* computer vision and machine intelligence
+* cardiovascular disease and fetal health
+* data acquisition and image reconstruction
+* scientific computing and reproducible research
 
-Here are some ideas to get you started:
+### projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [imaging-lab](https://imaging-lab.gitlab.io/) - _computational biomedical imaging research_
+* [TRANSIT CHD](https://pedheartbrain.ucsf.edu/transit-chd) - _understanding cardiac physiology and neurodevelopment in perinatal transposition of the great arteries_
+* [MOG](http://metricoptimizedgating.github.io/MOG-Public/) - _metric optimized gating for fetal cardiac MRI_
+* [SVRTK](https://svrtk.github.io/) - _slice-to-volume reconstruction toolkit_
+* [iFIND](http://www.ifindproject.com) - _improving fetal imaging and diagnosis_
+
+### about
+
+* [mriresearch.postach.io/about](https://mriresearch.postach.io/page/about)
